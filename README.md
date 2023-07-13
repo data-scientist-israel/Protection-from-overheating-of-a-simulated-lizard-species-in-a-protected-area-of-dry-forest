@@ -1,1 +1,8 @@
 # Protection-from-overheating-of-a-simulated-lizard-species-in-a-protected-area-of-dry-forest
+
+I share the published scientific article “Protection from overheating of simulated Sceloporus horridus lizards in a biosphere reserve of seasonally dry tropical forest in central Mexico”. I and my co-authors sent it to the international peer-review journal, Journal of Thermal Biology. 
+Also, I share the data used to replicate my results using the attached rscript. 
+I did general linear models and the corresponding tests to test the assumptions of the models.
+
+Now, I describe this research. In order to evaluate the conservation effectiveness of protected areas to sustain the ecosystem function with parameters of thermal physiology and behavior at the landscape and interdecadal scale, we used a mechanistic niche model to evaluate the long-term capacity of the largest protected area of seasonally dry tropical forest in central Mexico to conserve vegetation cover, to improve the thermal quality of the habitat, and to lower the risk of overheating of a tropical lizard species. We found that the protected area had the highest vegetation cover, provided better conditions for thermoregulation, and increased the thermal safety of the lizard species. We know of no previous studies assessing the conservation effectiveness of an entire protected area and its surroundings in the long term with parameters of thermal biology. 
+These results are especially relevant to those interested in the effect of habitat loss on the risk of overheating for lizards in tropical ecosystems. Also, to those interested in the creation and evaluation of protected areas with parameters of thermal biology.
